@@ -14,10 +14,12 @@
 .half-width img{
     width: 60%;
     margin-left: 60px;
+    margin-bottom: 20px;
 }
 .vertical-line{
     border-left: 4px solid;
-    border-radius: 50%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
     
@@ -35,6 +37,7 @@
     font-size: 19px;
     background-image: linear-gradient(purple, cyan);
     padding: 10px 17px;
+    margin: 10px 12px;
     border-radius: 10px;
 }
 .three-box{
@@ -92,3 +95,24 @@ p{
     background-position: top right;
 
 }
+.mars-info{
+    display: flex;
+    margin-top: 50px;
+}
+.mars-info img{
+    padding-top: 19px;
+    padding-left: 28px;
+}
+.mars-datalist{
+    background-image: url(images/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 900px 750px;
+    background-position: -17px 5px;
+    padding-left: 17px;
+    padding-right: 10px;
+    padding-top: 50px;
+    margin-right: 60px;
+    margin-top: 10px;
+}
+
+
