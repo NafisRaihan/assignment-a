@@ -81,3 +81,14 @@ p{
     background-repeat: no-repeat;
     background-size: 580px 420px;
 }
+.space-ship{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 49px;
+    padding-bottom: 50px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 500px 460px;
+    background-position: top right;
+
+}
