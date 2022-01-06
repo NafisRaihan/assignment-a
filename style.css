@@ -45,9 +45,6 @@
     height: 90px;
     width: 120px;
 }
-.three-box p{
-    text-align: justify;
-}
 .space-box-a{
     padding: 40px 70px;
     margin: 10px 15px;
@@ -72,4 +69,15 @@
 
 h2{
     text-align: center;
+}
+p{
+    text-align: justify;
+}
+.why-mars{
+    display: flex;
+    margin-top: 100px;
+    padding-right: 19px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 580px 420px;
 }
