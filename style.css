@@ -1,0 +1,76 @@
+
+.top-heading{
+    font-size: 40px;
+    margin-left: 7px;
+}
+.top-part{
+    display: flex;
+    margin-left: 20px;
+    padding-left: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    margin-left: 60px;
+}
+.vertical-line{
+    border-left: 4px solid;
+    border-radius: 50%;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    
+}
+.purple-colored{
+    font-family: 'Bebas Neue', cursive;
+    color: purple;
+}
+.purple-header{
+    margin-top: -30px;
+}
+.button-grad{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    background-image: linear-gradient(purple, cyan);
+    padding: 10px 17px;
+    border-radius: 10px;
+}
+.three-box{
+    display: flex;
+
+}
+.space-image{
+    height: 90px;
+    width: 120px;
+}
+.three-box p{
+    text-align: justify;
+}
+.space-box-a{
+    padding: 40px 70px;
+    margin: 10px 15px;
+    background-color: grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px grey;
+}
+.space-box-b{
+    padding: 40px 70px;
+    margin: 10px 15px;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px grey;
+}
+.space-box-c{
+    padding: 40px 70px;
+    margin: 10px 15px;
+    background-color:lightblue;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px grey;
+}
+
+}
+.middle-head{
+    margin-left: 40px;
+}
