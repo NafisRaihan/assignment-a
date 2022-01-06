@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 .top-heading{
     font-size: 40px;
     margin-left: 7px;
@@ -114,5 +116,14 @@ p{
     margin-right: 60px;
     margin-top: 10px;
 }
+footer{
+    color: white;
+    background-color: black;
+    height:130px;
+} 
+.last-para{
+    text-align: center;
+}
+
 
 
